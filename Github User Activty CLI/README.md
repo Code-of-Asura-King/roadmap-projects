@@ -32,7 +32,7 @@ A simple command-line interface (CLI) tool to fetch and display the recent activ
    ```bash
    git clone https://github.com/Code-of-Asura-King/roadmap-projects.git
    cd roadmap-projects/Github\ User\ Activty\ CLI
-````
+    ```
 
 2. **Install the required package (if not installed):**
 
