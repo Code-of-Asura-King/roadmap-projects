@@ -98,8 +98,12 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙌 Acknowledgements
 
 * [GitHub REST API Docs](https://docs.github.com/en/rest)
-
-```
-
 ---
+
+## 🔗 Links
+
+- 🌐 Project Page: [roadmap.sh - GitHub User Activity CLI](https://roadmap.sh/projects/github-user-activity)  
+- 📂 GitHub Repo: [View Code on GitHub](https://github.com/Code-of-Asura-King/roadmap-projects/tree/main/Github%20User%20Activty%20CLI)
+
+
 
