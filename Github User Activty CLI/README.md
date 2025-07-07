@@ -101,7 +101,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ```
 
----
 
-Let me know if you want a version with badges, examples with color formatting, or enhanced styling for GitHub Pages!
-```
