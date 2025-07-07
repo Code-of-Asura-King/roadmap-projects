@@ -32,7 +32,7 @@ A simple command-line interface (CLI) tool to fetch and display the recent activ
    ```bash
    git clone https://github.com/Code-of-Asura-King/roadmap-projects.git
    cd roadmap-projects/Github\ User\ Activty\ CLI
-````
+    ```
 
 2. **Install the required package (if not installed):**
 
@@ -99,9 +99,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 * [GitHub REST API Docs](https://docs.github.com/en/rest)
 
-```
 
----
-
-Let me know if you want a version with badges, examples with color formatting, or enhanced styling for GitHub Pages!
-```

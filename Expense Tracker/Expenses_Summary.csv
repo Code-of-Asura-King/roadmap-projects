@@ -1,0 +1,5 @@
+id,date,description,amount,category
+1,2025-07-07,Lunch,20.0,Food
+3,2025-07-07,Dinner,40.0,Food
+4,2025-07-07,Breakfast,50.0,None
+5,2025-07-07,Breakfast,50.0,Food
